@@ -4,6 +4,8 @@ var happyDog
 var database
 var foodS
 var foodStock
+var button1, button2
+var fedTime, lastFed
 function preload()
 {
   //load images here
